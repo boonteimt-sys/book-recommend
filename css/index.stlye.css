@@ -1,0 +1,42 @@
+.gray-background {
+  background-color: #c8e9df; /* สีเทาอ่อน */
+}
+.text-color {
+  color: #008a83; /* สีส้มสดใส */
+}
+.indent-paragraph {
+  text-indent: 30px; /* ย่อหน้า 30 พิกเซล */
+}
+.shift-right {
+  text-align: left;       /* ให้ข้อความชิดซ้ายภายในบล็อก */
+  padding-left: 50px;     /* เขยิบข้อความไปทางขวา */
+}
+.bai-font {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 40px;
+}
+.bai-font2 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 20px;
+}
+.sriracha-text {
+  font-family: 'Sriracha', cursive;
+  font-size: 50px;
+}
+
+.t-col {
+  color: rgb(12, 168, 142);
+}
+.t-col2 {
+  color: rgb(0, 168, 132);
+}
+.srira {
+  font-family: 'Sriracha', cursive;
+  font-size: 20px;
+}
+.light-blue-bg {
+  background-color: #ADD8E6; /* สีฟ้าอ่อน */
+}
+.brown-background {
+  background-color: rgb(255, 255, 243);
+}
